@@ -1,0 +1,34 @@
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\Admin Dash.exe.config
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\Admin Dash.exe
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\Admin Dash.pdb
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\Admin Dash.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin Dash.vbproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin Dash.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin_Dash.Form1.resources
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin_Dash.Resources.resources
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin Dash.vbproj.GenerateResource.cache
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin Dash.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin Dash.exe
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin Dash.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin Dash.pdb
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\obj\Debug\Admin Dash.vbproj.CopyComplete
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Buffers.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Memory.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Text.Json.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.ValueTuple.dll
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Buffers.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Memory.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Text.Json.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario\Desktop\Kim Sutherland\Desktop\Admin Dash\Admin Dash\bin\Debug\System.ValueTuple.xml
